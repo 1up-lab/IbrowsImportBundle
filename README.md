@@ -1,3 +1,3 @@
 # Important:
 
-This Bundle is now stored here: https://gitlab.pwc-digital.ch/ec/bundles/IbrowsImportBundle
+**Don't use this** - it's just here for historical reasons.
